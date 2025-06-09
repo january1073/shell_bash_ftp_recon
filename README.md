@@ -1,6 +1,4 @@
-# shell_bash_ftp_recon
-
-FTP Reconnaissance Script
+# FTP Reconnaissance Script
 
 Usage: ./ftp_recon <target_ip>
 
