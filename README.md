@@ -1,5 +1,5 @@
 # FTP Reconnaissance Script
 
-Usage: ./ftp_recon <target_ip>
+Usage: ./ftp_recon.sh <target_ip>
 
-More info on FTP reconnaissance: [soon]
+More info on cleartext protocols: [soon]
